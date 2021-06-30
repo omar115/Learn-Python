@@ -6,8 +6,8 @@ v = video
 '''
 import subprocess
 
-output_video_mp4 = '/home/akash/git_workspace/Learn-Python/compression/media/sample3_output3_20k.mp3'
-input_video = '/home/akash/git_workspace/Learn-Python/compression/media/sample3.mp3'
+output_video_mp4 = '/home/akash/git_workspace/Learn-Python/compression/media/sample55_output.mp3'
+input_video = '/home/akash/git_workspace/Learn-Python/compression/media/sample55.flac'
 # stream.run()
 # streamx = subprocess.check_call(
 #     ['ffmpeg', '-v', '-8', '-i', input_video, '-vf', 'scale=-2:480', '-preset', 'slow',
