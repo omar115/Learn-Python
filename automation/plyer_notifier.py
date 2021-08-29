@@ -5,6 +5,7 @@ while True:
     notification.notify(
         title = "Reminder",
         message = "Please take a break",
-        timeout = 5
+        app_icon = r'C:\Users\Ferntech\Desktop\git_workspace\Learn-Python\automation\sample.ico',
+        timeout = 10
     )
-    time.sleep(30)
+    time.sleep(5)
