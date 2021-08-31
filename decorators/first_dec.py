@@ -5,7 +5,6 @@ object without modifying its structure.
 
 '''
 
-
 # normal function to illustrate basic activity of function
 def plus_one(val1, val2):
     sum = val1 + val2
