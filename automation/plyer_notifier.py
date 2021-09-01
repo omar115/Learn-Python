@@ -1,10 +1,6 @@
 from plyer import notification
 import time
 
-
-
-
-
 while True:
     notification.notify(
         title = "Reminder",
