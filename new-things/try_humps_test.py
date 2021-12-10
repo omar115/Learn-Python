@@ -1,5 +1,5 @@
 import humps
 
-z=humps.camelize('I love my country')
+z=humps.camelize('omar hasan akash')
 
 print(z)
