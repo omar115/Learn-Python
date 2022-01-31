@@ -31,3 +31,14 @@ creation of an object
 __init__(), __str__(), etc.
 
 - it will be called automically
+
+# Inheritence ?
+- it is a mechanism that allows us to define common behavior
+or common function in one class and then inherit them in other
+classes.
+- IS-A relationship: e.g. Mammal IS A animal, so it will inherit
+animal class
+- Here animal is the base class and Mammal is the sub class
+
+# super()
+- using super() we can call parent init method
