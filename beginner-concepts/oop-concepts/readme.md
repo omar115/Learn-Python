@@ -39,3 +39,6 @@ classes.
 - IS-A relationship: e.g. Mammal IS A animal, so it will inherit
 animal class
 - Here animal is the base class and Mammal is the sub class
+
+# super()
+- using super() we can call parent init method
